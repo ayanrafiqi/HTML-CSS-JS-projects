@@ -1,0 +1,141 @@
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+.pro {
+  text-decoration: underline;
+}
+.middle-container {
+  margin-top: 70px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  font-weight: bold;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #eaf6f6;
+  width: 48px;
+  margin: 50px auto;
+}
+
+.my-description {
+  margin: auto;
+  color: #40514e;
+  font-weight: bold;
+  font-family: Arial, serif;
+  width: 30%;
+}
+
+.skills {
+  margin-top: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.momo-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+  position: relative;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 320px;
+  left: 250px;
+}
+.design-para {
+  font-weight: bold;
+  font-family: Arial, serif;
+}
+
+.momo-para {
+  font-weight: bold;
+  font-family: Arial, serif;
+}
+
+.btn {
+  color: #eaf6f6;
+  padding: 15px;
+  text-decoration: none;
+  background-color: #11999e;
+  border-radius: 10px;
+  font-style: bold;
+  font-family: Arial, serif;
+}
+
+.contact-me {
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
+
+.contact-para {
+  margin: 30px auto 50px auto;
+  font-family: arial, serif;
+  line-height: 2;
+  font-weight: 700;
+  width: 40%;
+}
+.copyright {
+  padding: 20px 0;
+  color: #eaf6f6;
+  font-size: 80%;
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+  font-family: Arial, serif;
+  margin: 10px;
+  font-weight: bold;
+}
+a:hover {
+  color: #eaf6f6;
+}
