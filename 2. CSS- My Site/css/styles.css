@@ -138,4 +138,5 @@ a {
 }
 a:hover {
   color: #eaf6f6;
+  text-decoration: underline;
 }
